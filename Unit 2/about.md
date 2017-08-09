@@ -1,1 +1,2 @@
-Unit 02 jQuery Functions
+Unit 02 
+jQuery Functions
